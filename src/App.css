@@ -1,9 +1,10 @@
 .container{
-    max-width: 500px;
-    margin: 30px auto;
+    max-width: 500px; /*  largura máxima de um elemento */
+    margin: 30px auto; /*  margem de um elemento */
     overflow: auto;
-    min-height: 300px;
-    border: 2px solid chartreuse;
-    padding: 30px;
-    border-radius: 10px;
+    min-height: 300px; /*  conprimento máxima de um elemento */
+    border: 2px solid chartreuse; /* borda do elemento */
+    padding: 30px;  /*   preenchimento de um elemento é o espaço entre seu conteúdo e sua borda. */
+    border-radius: 10px; /*Adicione cantos arredondados a dois elementos */
+    color: darkred;
 }
