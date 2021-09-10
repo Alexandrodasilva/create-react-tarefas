@@ -6,5 +6,5 @@
     border: 2px solid chartreuse; /* borda do elemento */
     padding: 30px;  /*   preenchimento de um elemento é o espaço entre seu conteúdo e sua borda. */
     border-radius: 10px; /*Adicione cantos arredondados a dois elementos */
-    color: darkred;
+    /*color: darkred;*/
 }
